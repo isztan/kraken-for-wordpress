@@ -669,12 +669,6 @@ select:focus {
 
 .icon-logo:before { content: "\e000"; }
 .icon-github:before { content: "\e001"; }
-.icon-reset:before { content: "\e002"; }
-.icon-grid:before { content: "\e003"; }
-.icon-typography:before { content: "\e004"; }
-.icon-buttons:before { content: "\e005"; }
-.icon-forms:before { content: "\e006"; }
-.icon-addons:before { content: "\e007"; }
 
 
 
